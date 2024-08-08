@@ -41,7 +41,7 @@ The raw data required significant cleaning to ensure accuracy and consistency:
 
 ### Exploratory Data Analysis (EDA)
 
-With clean data, the analysis explores several key aspects:
+With clean data, the analysis explored several key aspects:
 - **Industry Leaders**: Fintech, Internet Software, and E-commerce lead in the number of unicorns.
 - **Geographical Insights**: The United States dominates the unicorn landscape, with San Francisco emerging as a key hub.
 - **Investment Patterns**: Top investors like Accel, Tiger Global Management, and Andreessen Horowitz play a significant role in backing unicorns.
