@@ -30,7 +30,7 @@ You can access the dataset [here](https://mavenanalytics.io/data-playground?orde
 
 ### MySQL
 
-MySQL is used for data cleaning and exploratory data analysis.
+MySQL was used for data cleaning and exploratory data analysis.
 
 ### Data Cleaning
 
